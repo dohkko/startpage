@@ -1,0 +1,45 @@
+:root {
+  /** colors */
+  --color-name: custom;
+  --color-bg-shade: #1a1b26;
+  --color-bg-base: #24283b;
+  --color-bg-surface: #1a1b26;
+  --color-bg-highlight: #24283b;
+  --color-fg-shade: #7ED8F1;
+  --color-fg-base: #D1F1FA;
+  --color-fg-surface: #7aa2f7;
+  --color-fg-highlight: #FFFFFF;
+  --color-primary-bg: #1a1b26;
+  --color-primary-base: #24283b;
+  --color-primary-fg: #565f89;
+  --color-secondary-bg: #1a1b26;
+  --color-secondary-base: #9ece6a;
+  --color-secondary-fg: #f7768e;
+  --color-palette-red: #E06C75;
+  --color-palette-green: #98C379;
+  --color-palette-yellow: #E5C07B;
+  --color-palette-blue: #61AFEF;
+  --color-palette-purple: #C678DD;
+  --color-palette-cyan: #56B6C2;
+  --color-palette-orange: #FFBB7C;
+  
+  /** general */
+  --font-family: DaddyTimeMono Nerd Font;
+  --display-image: block;
+
+  /** surface */
+  --surface-maxWidth: 900px;
+  --surface-shadow: 1px 1px 0px rgb(26, 27, 38), 2px 2px 0px rgb(26, 27, 38), 3px 3px 0px rgb(26, 27, 38), 4px 4px 0px rgb(26, 27, 38), 5px 5px 0px rgb(26, 27, 38), 6px 6px 0px rgb(26, 27, 38), 7px 7px 0px rgb(26, 27, 38), 8px 8px 0px rgb(26, 27, 38), 9px 9px 0px rgb(26, 27, 38), 10px 10px 0px rgb(26, 27, 38), 11px 11px 0px rgb(26, 27, 38), 12px 12px 0px rgb(26, 27, 38), 13px 13px 0px rgb(26, 27, 38), 14px 14px 0px rgb(26, 27, 38), 15px 15px 0px rgb(26, 27, 38), 16px 16px 0px rgb(26, 27, 38), 17px 17px 0px rgb(26, 27, 38), 18px 18px 0px rgb(26, 27, 38), 19px 19px 0px rgb(26, 27, 38), 20px 20px 0px rgb(26, 27, 38), 21px 21px 0px rgb(26, 27, 38), 22px 22px 0px rgb(26, 27, 38), 23px 23px 0px rgb(26, 27, 38), 24px 24px 0px rgb(26, 27, 38), 25px 25px 0px rgb(26, 27, 38), 26px 26px 0px rgb(26, 27, 38), 27px 27px 0px rgb(26, 27, 38), 28px 28px 0px rgb(26, 27, 38), 29px 29px 0px rgb(26, 27, 38), 30px 30px 0px rgb(26, 27, 38), 31px 31px 0px rgb(26, 27, 38), 32px 32px 0px rgb(26, 27, 38);
+  --surface-borderRadius: 32px;
+
+  /** spacing */
+  --space-smallest: 0.125rem;
+  --space-small: 0.5rem;
+  --space-medium: 1rem;
+  --space-large: 1.5rem;
+  --space-largest: 3rem;
+
+  /** others */
+  --picture-size: 300px;
+  --group-count: 4;
+}
